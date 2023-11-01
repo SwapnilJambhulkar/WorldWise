@@ -9,52 +9,15 @@
 
 <p align="center">The World Wise is a web app, that helps you to not lose track of countries that u visited thru out of your journey across the world.</p>
 
-<div align="center">
-  
-<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#you-may-also-like" align="center"> You may also like  </a> •  <a href="#license" align="center"> License  </a> 
+## 🚀 Live Demo
 
-•<a href="https://world-wise-aleksandar.netlify.app/" align="Center">Live Server</a>
-
-</div>
+[https://world-wise-web.vercel.app/](https://world-wise-web.vercel.app/)
 
 ## Technologies Used
 
   - [React](https://react.dev/)
   - [React Router Dom](https://reactrouter.com/en/main)
   - [Leaflet](https://leafletjs.com/) - React Leaflet
-
-## Screenshot
-
-![Landing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/88980c2d-4c23-407d-81a6-33f4bc2e4bbd)
-
-![Pricing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/bca1c442-d4ee-470d-91dc-0ff5823a83a8)
-
-![image](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/a75b525c-d550-442a-a7eb-21c4c475119c)
-
-![image](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/2b3fbe0b-ec61-4c39-9c00-87a84d788557)
-
-
-## Quicstart
-
-To clone and run this application, you'll need [Git](https://git-scm.com/) and [NodeJS](https://nodejs.org/en) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
-
-```
-# Clone this repository 
-$ git clone https://github.com/AleksandarSarbajic/WorldWise
-
-# Go into the repository
-$ cd WorldWise
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm run start
-```
-
-> [!NOTE]  
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
 
 ## How It Works
 
@@ -82,13 +45,24 @@ You can also see all visited countries
 
 ![All countries visited](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/f4b31c18-fe29-491a-b7cb-88872472c710)
 
+## Quicstart
 
-## You may also like...
+To clone and run this application, you'll need [Git](https://git-scm.com/) and [NodeJS](https://nodejs.org/en) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
 
-- [Tasty Trail](https://github.com/AleksandarSarbajic/the-wild-oasis) - Food ordering app
-- [The Wild Oasis](https://github.com/AleksandarSarbajic/Tasty-Trail) - Hotel service app
-- [React Quiz](https://github.com/AleksandarSarbajic/react-quiz) - React quiz app
+```
+# Clone this repository 
+$ git clone https://github.com/AleksandarSarbajic/WorldWise
 
-## License
+# Go into the repository
+$ cd WorldWise
 
-**MIT**
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run start
+```
+
+> [!NOTE]  
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
